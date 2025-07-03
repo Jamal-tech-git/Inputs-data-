@@ -1,9 +1,6 @@
-# Inputs-data-
-Supporting input files for my published article on MLIP development for the codes used e.g. FHI-Aims, Gulp, MACE janus
-
 # Inputs-data
 
-This repository contains input and supporting data files used in our recently submitted article to PCCP involving "Modelling Silica using MACE-MP Machine Learnt Interatomic Potentials" for zeolite and silica materials modelling.
+This repository contains input and supporting data files used in our recently submitted article to PCCP involving "Modelling Silica using MACE-MP Machine Learnt Interatomic Potentials" for zeolite and silica materials modelling for the codes used e.g. FHI-Aims, Gulp, MACE janus.
 
 These files are provided to ensure **transparency**, **reproducibility**, and to meet the journal's requirements for open data.
 
