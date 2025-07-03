@@ -1,0 +1,17 @@
+#device: cuda
+fmax: 0.001
+arch: mace_mp
+steps: 10000
+opt-cell-fully: True
+opt-cell-lengths: True
+optimizer: LBFGS
+calc-kwargs:
+      dispersion: True
+      skin: 2.0
+      check: True
+      delay: 1
+      every: 1
+      enable_cueq: false
+      model: /work/e05/e05/janasir/janus-files/_zeolites/model/mace_agnesi_medium.model
+ 
+#traj: CHA-traj.xyz
